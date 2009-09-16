@@ -1,0 +1,21 @@
+$Id: CHANGELOG,v 1.1 2005/08/15 21:15:31 aurelian Exp $
+
+CHANGE LOG
+~~~~~~~~~~
+version 0.2.3.18a
+21.dec.2004
+
+-> you can pass as the service name the name of the service as it is displayed on Contol Panel
+-> added wsm_ prefix to php function names (it was f_)
+-> added _wsm_ prefix to C internal functions
+-> 2 new functions wsm_key() and wsm_display()
+-> wsm_stop_service() was almost rewritten
+-> renamed file: wsm\wsm_service_control.h to wsm\wsm_service.c
+-> a much better translation for windows error codes
+-> dropped suport for DEV-CPP (and g++) :( since I didnt manage to compile it under php5
+-> achange log was added to README file
+
+version 0.1.6.28a
+
+-> initial release
+

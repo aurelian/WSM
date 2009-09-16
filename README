@@ -1,0 +1,16 @@
+WSM: WINDOWS SERVICE MANAGEMENT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+author: Aurelian Oancea
+contact: oancea [at] gmail [dot] com
+web site: http://wsm.berlios.de
+licence: PHP
+
+This is WSM version 0.9.1, source distribution.
+
+WSM is a standalone PHP extension that works only on Windows (NT:NT,2k,XP,2k3).
+WSM allows PHP developers to control Windows Services from their PHP scripts.
+
+More informations about Installing and the API provided 
+can be found on WSM project page: http://wsm.berlios.de
+

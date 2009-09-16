@@ -1,0 +1,9 @@
+// $Id: config.w32,v 1.2 2005/10/09 17:55:11 aurelian Exp $
+// vim:ft=javascript
+
+ARG_ENABLE("wsm", "enable Windows Service Management", "no");
+
+if (PHP_WSM != "no") {
+    EXTENSION("wsm", "wsm.c");
+}
+
